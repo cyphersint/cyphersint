@@ -1,6 +1,6 @@
 # 👋 Hello, I'm CypherSint
 
-I am an **AI Programmer**
+I'm an **AI Programmer** focused on creation without understanding
 
 ---
 
